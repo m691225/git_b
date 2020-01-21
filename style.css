@@ -5,3 +5,7 @@ h1{
 h3{
     color:blue;
 }
+
+div{
+    border:4px solid blue;
+}
